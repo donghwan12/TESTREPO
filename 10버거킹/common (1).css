@@ -1,0 +1,17 @@
+* {
+    position: relative;
+}
+body {
+    margin: 0px;
+    padding: 0px;
+    width: 100vw;
+    height: 100vh;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+ul {
+    margin: 0; padding: 0;
+    list-style: none;
+}
